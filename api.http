@@ -1,0 +1,9 @@
+http://localhost:8888/actuator/info
+
+
+####
+http://localhost:8888/service-order/production
+
+
+####
+http://localhost:8888/umbrella-request/develop
