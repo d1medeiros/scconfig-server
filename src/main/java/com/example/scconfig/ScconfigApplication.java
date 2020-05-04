@@ -22,5 +22,5 @@ class Outro {
 
 
 class Teste {
-
+    String id;
 }
