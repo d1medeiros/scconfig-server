@@ -14,6 +14,6 @@ public class ScconfigApplication {
 
 }
 
-class Runner {
+class Outro {
 
 }
