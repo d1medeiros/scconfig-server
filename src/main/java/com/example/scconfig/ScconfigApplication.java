@@ -17,3 +17,8 @@ public class ScconfigApplication {
 class Outro {
 
 }
+
+
+class Teste {
+
+}
