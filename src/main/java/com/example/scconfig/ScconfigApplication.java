@@ -25,9 +25,11 @@ class Teste {
     String id;
 }
 
+class Dev {
+    /////
+}
 class ClassMaster {
     String id;
-}
-class Dev {
+}class Dev {
     /////
 }
