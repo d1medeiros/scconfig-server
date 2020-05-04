@@ -1,13 +1,23 @@
-http://localhost:8888/actuator/info
-
-
-####
-http://localhost:8888/service-order/production
-
+#http://localhost:8888/actuator/info
 
 ####
-http://localhost:8888/umbrella-request/develop
+#http://localhost:8888/service-order/production
 
+####
+#http://localhost:8888/umbrella-request/develop
+
+####
+http://localhost:8888/actuator/health
+
+####
+http://localhost:8080/actuator/health
+
+####
+http://localhost:8081/actuator/health
 
 ####
 http://localhost:8080/info
+
+####
+http://localhost:8888/ssconfig-client/develop
+
