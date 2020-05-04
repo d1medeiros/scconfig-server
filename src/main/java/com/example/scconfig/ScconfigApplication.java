@@ -16,6 +16,7 @@ public class ScconfigApplication {
 }
 
 class Outro {
+    int id;
 
 }
 
