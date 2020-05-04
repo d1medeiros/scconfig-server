@@ -8,23 +8,8 @@ import org.springframework.cloud.config.server.EnableConfigServer;
 @EnableConfigServer
 public class ScconfigApplication {
 
-    String teste;
     public static void main(String[] args) {
         SpringApplication.run(ScconfigApplication.class, args);
     }
 
-}
-
-class Outro {
-    int id;
-
-}
-
-
-class Teste {
-    String id;
-}
-
-class ClassMaster {
-    String id;
 }
