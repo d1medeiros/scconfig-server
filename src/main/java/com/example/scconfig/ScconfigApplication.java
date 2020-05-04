@@ -25,6 +25,9 @@ class Teste {
     String id;
 }
 
+class ClassMaster {
+    String id;
+}
 class Dev {
     /////
 }
