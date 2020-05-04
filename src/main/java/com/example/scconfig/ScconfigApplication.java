@@ -13,7 +13,3 @@ public class ScconfigApplication {
     }
 
 }
-
-class BranshA {
-
-}
