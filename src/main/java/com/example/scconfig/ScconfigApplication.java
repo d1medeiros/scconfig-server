@@ -13,8 +13,3 @@ public class ScconfigApplication {
     }
 
 }
-
-
-class Dev {
-
-}
