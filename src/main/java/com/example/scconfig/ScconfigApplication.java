@@ -13,3 +13,7 @@ public class ScconfigApplication {
     }
 
 }
+
+class BranchA {
+    int anInt;
+}
