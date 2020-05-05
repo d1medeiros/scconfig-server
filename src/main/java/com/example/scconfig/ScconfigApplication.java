@@ -16,6 +16,6 @@ public class ScconfigApplication {
 
 }
 
-class BranchA {
-    int anInt;
+class BranchC {
+    int id;
 }
