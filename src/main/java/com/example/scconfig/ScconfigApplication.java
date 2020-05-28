@@ -10,6 +10,10 @@ import org.springframework.cloud.config.server.EnableConfigServer;
 @EnableConfigServer
 public class ScconfigApplication {
 
+
+    int age;
+
+
     public static void main(String[] args) {
         SpringApplication.run(ScconfigApplication.class, args);
     }
