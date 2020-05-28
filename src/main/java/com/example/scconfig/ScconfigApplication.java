@@ -14,8 +14,8 @@ public class ScconfigApplication {
         SpringApplication.run(ScconfigApplication.class, args);
     }
 
-}
 
-class BranchC {
-    int id;
+    private void x() {
+        System.out.println(123);
+    }
 }
