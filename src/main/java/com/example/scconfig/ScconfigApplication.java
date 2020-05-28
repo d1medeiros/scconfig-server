@@ -18,4 +18,6 @@ public class ScconfigApplication {
 
 class BranchC {
     int id;
+    String nome;
+    String sobrenome;
 }
