@@ -18,6 +18,10 @@ public class ScconfigApplication {
         SpringApplication.run(ScconfigApplication.class, args);
     }
 
+
+    private void x() {
+        System.out.println(123);
+    }
 }
 
 class BranchC {
